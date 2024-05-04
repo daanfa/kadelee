@@ -2,4 +2,6 @@ git init
 git stuats
 git config user.name '본인 GitHub Name'
 git config user.email '본인 GitHub 가입 시 email'
+git add -A
+
 
